@@ -53,3 +53,5 @@ print('LlaMATH Response:', response)
 
 ## Interface with [chat-with-mlx](https://github.com/qnguyen3/chat-with-mlx.git) and updated `app.py` File
 <img width="900" alt="Screenshot 2024-05-14 at 2 11 21 PM" src="https://github.com/GusLovesMath/Local_LLM_Training_Apple_Silicon/assets/109978367/2f310164-f38e-429e-9476-7b471931d652">
+
+Here we have our locally trained Llama3, adept at solving verbose math problems. I call it LlaMATH3, being utilized in a local chatbot.
