@@ -44,9 +44,10 @@ response = generate(model, tokenizer, prompt=prompt, max_tokens=132, temp=0.0, v
 print('LlaMATH Response:', response)
 ```
 
-<img width="1271" alt="Screenshot 2024-05-14 at 2 11 21 PM" src="https://github.com/GusLovesMath/Local_LLM_Training_Apple_Silicon/assets/109978367/2f310164-f38e-429e-9476-7b471931d652">
-
 ## Model Details
 - **Source**: The model was converted to MLX format from `mlx-community/Meta-Llama-3-8B-Instruct-4bit` using mlx-lm version 0.12.1.
 - **Training Hardware**: Apple M2 Pro chip with 16GB of RAM, 16 GPUs, and CPUs.
 - **Model Card**: For more detailed information about the model's capabilities and training, refer to the original [model card](https://huggingface.co/GusLovesMath/LlaMATH-3-8B-Instruct-4bit).
+
+## Interface with [chat-with-mlx](https://github.com/qnguyen3/chat-with-mlx.git) and updated `app.py` File
+<img width="900" alt="Screenshot 2024-05-14 at 2 11 21 PM" src="https://github.com/GusLovesMath/Local_LLM_Training_Apple_Silicon/assets/109978367/2f310164-f38e-429e-9476-7b471931d652">
