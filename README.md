@@ -1,6 +1,5 @@
 # Local LLM Training on Apple Silicon - Project README
 
-## Overview
 This repository contains the resources and documentation for the project "Local LLM Training on Apple Silicon", where the LlaMATH3 model was fine-tuned to efficiently solve verbose mathematical word problems on an Apple Silicon device with 16 GPUs. The project demonstrates the application of the MLX library and Metal API to achieve high computational performance and privacy on non-traditional hardware platforms.
 
 ## Repository Contents
