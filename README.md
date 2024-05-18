@@ -8,7 +8,7 @@ This repository contains the resources and documentation for the project "Local 
 - **LLM_Local_Training_Llama3.ipynb**: Jupyter notebook containing all the code for setting up, training, and evaluating the LlaMATH3 model.
 - **AIChatbotWithLLM_SLIDES.pdf**: Presentation slides detailing the project's approach, architecture, and outcomes.
 - **AIChatbotWithLLM_Report.pdf**: Comprehensive report discussing the project in detail.
-- **AIChatbotWithLLM_Report_Summary_onePage.pdf**: One-page summary of the project report for quick reference.
+- **AIChatbotWithLLM_onePage.pdf**: One-page summary of the project report for quick reference.
 - **app.py**: Updated GUI application file to replace the original in the [chat-with-mlx](https://github.com/qnguyen3/chat-with-mlx.git) repository for enhanced user interaction.
 - **LlaMATH-3-8B-Instruct-4bit.yaml**: Configuration file to be added to the `../chat-with-mlx/chat_with_mlx/models/config` directory for using the custom trained model.
 
