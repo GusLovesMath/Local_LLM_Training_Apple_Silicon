@@ -2,7 +2,7 @@
 
 This repository contains the resources and documentation for the project "Local LLM Training on Apple Silicon", where the Llama3 model was fine-tuned to efficiently solve verbose mathematical word problems on an Apple Silicon device with 16 GPUs. The project demonstrates the application of the MLX library and Metal API to achieve high computational performance and privacy on non-traditional hardware platforms.
 
-***Note: Notebook and reports will be posted within a few days***
+***Note: The notebook will be posted soon.***
 
 ## Repository Contents
 - **LLM_Local_Training_Llama3.ipynb**: Jupyter notebook containing all the code for setting up, training, and evaluating the LlaMATH3 model.
